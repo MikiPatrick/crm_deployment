@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5f08d720152b987b321ced97"},"nombre":"miki","apellido":"patrick","empresa":"lixf","email":"correo@correo.com","telefono":"123456789","__v":0}
+{"_id":{"$oid":"5f08d7bd152b987b321ced98"},"nombre":"truc","apellido":"muche","empresa":"face","email":"correo2@correo.com","telefono":"987654321","__v":0}
+{"_id":{"$oid":"5f0cbb358e54d612b6ecf35c"},"nombre":"kimi","apellido":"miki","empresa":"flex","email":"correo4@correo.com","telefono":"78544123785","__v":0}
