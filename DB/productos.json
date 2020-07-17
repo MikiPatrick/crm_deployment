@@ -1,6 +1,0 @@
-{"_id":{"$oid":"5f09ac8e777d932ab9eb6ae4"},"nombre":"Camisa Redux","precio":25,"imagen":"ryXWbuSAj.jpeg","__v":0}
-{"_id":{"$oid":"5f09acac777d932ab9eb6ae5"},"nombre":"Camisa Node.js","precio":35,"imagen":"ya6m9kMnu.jpeg","__v":0}
-{"_id":{"$oid":"5f0eb64d05772b1cd4a5bec7"},"nombre":"Camisa Sass","precio":30,"imagen":"r8x8wg3Ya.jpeg","__v":0}
-{"_id":{"$oid":"5f0eb71c05772b1cd4a5bec8"},"nombre":"Camisa HTML","precio":15,"imagen":"e8Q-KUaTA.jpeg","__v":0}
-{"_id":{"$oid":"5f0eb8487ca0e42277bb8aec"},"nombre":"Camisa Drupal","precio":31,"imagen":"ovj762xKt.jpeg","__v":0}
-{"_id":{"$oid":"5f0eb8827ca0e42277bb8aed"},"nombre":"Camisa GitHub","precio":27,"imagen":"EjaoABGWS.jpeg","__v":0}
