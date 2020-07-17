@@ -17,6 +17,9 @@ mongoose.connect(process.env.DB_URL, {
 // crear el servidor
 const app = express();
 
+// carpeta publica
+app.use(express.static('uploads'));
+
 // habilitar bodyparser
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
@@ -42,8 +45,7 @@ app.use(cors(corsOptions));
 // Rutas de la app
 app.use('/', routes());
 
-// carpeta publica
-app.use(express.static('uploads'));
+
 
 // Definimos host & port
 const host = process.env.HOST || '0.0.0.0';
