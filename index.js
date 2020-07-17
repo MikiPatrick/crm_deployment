@@ -28,7 +28,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 const whitelist = [process.env.FRONTEND_URL];
 const corsOptions = {
     origin: (origin, callback) => {
-        console.log(origin);
+        // console.log(origin);
         // Revisar si la peticion viene de un servidor que esta en lista whitelist
         const existe = whitelist.some( dominio => dominio === origin );
         if(existe) {
